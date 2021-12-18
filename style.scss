@@ -744,7 +744,10 @@ footer,
 }
 
 .product-count-option-wrapper {
-  margin: 0 1.5rem 0 1.5rem;
+  background: #eaeaea;
+  padding: 0.9rem 0;
+  border-radius: 4px;
+  justify-content: space-around;
 }
 
 .icon-cart {
@@ -941,6 +944,16 @@ footer,
 }
 
 @media (min-width: 900px) {
+  .btn--add-to-cart {
+    margin-top: 0;
+    padding-bottom: 0;
+  }
+
+  .product-count-option-wrapper {
+    margin-right: 1.5rem;
+    padding: 0;
+  }
+
   .nav--main {
     padding: 0;
   }
