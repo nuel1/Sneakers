@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/nuel1/Sneakers
+- Live Site URL: https://61be1d9e7cbfaf7c29dcc0a9--focused-snyder-f95f5a.netlify.app/
 
 ## My process
 
