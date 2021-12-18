@@ -12,7 +12,6 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -68,3 +67,8 @@ this deficiency by learning and understanding how to work with images of any siz
 ## Author
 
 - Frontend Mentor - https://www.frontendmentor.io/profile/nuel1
+
+
+## Acknowledgments
+
+Thanks to frontend mentor .io for this incredible project idea.
