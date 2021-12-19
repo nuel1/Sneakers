@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/nuel1/Sneakers
-- Live Site URL: https://61be1d9e7cbfaf7c29dcc0a9--focused-snyder-f95f5a.netlify.app/
+- Live Site URL: https://61bf8015d326b1000885449b--focused-snyder-f95f5a.netlify.app/
 
 ## My process
 
@@ -67,7 +67,6 @@ this deficiency by learning and understanding how to work with images of any siz
 ## Author
 
 - Frontend Mentor - https://www.frontendmentor.io/profile/nuel1
-
 
 ## Acknowledgments
 
